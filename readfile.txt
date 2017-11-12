@@ -1,0 +1,13 @@
+NAME                                    READY     STATUS    RESTARTS   AGE
+tetsbvdbebebbreberbebrebeberbr          1/1       Running    0          1d
+tesapigateway-deploy-3534595364-vgl4l   1/1       Running    0          1d
+tesapisvrdeploy-1305825996-3g3c2        1/1       Running    0          2d
+tesservice-3187634994-qfgsp             1/1       Running    0          1d
+tesui-deploy-581111214-rds47            1/1       Running    0          1d
+cb-azure-extract-926490336-qwpjc        1/1       terminated 0          2d
+mariadb-dbbackup-1739985923-sp6fx       1/1       Running    0          14d
+mariadb-deploy-906474309-lhbl2          1/1       Running    0          14d
+orch-master-4074513886-62923            1/1       Running    0          14d
+orch-slave-4168876115-5mgl3             1/1       Running    0          14d
+orch-slave-4168876115-6vz5v             1/1       terminated 0          14d
+rabbitmq-1842954358-s09d3               1/1       Running    0          14d
